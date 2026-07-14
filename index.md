@@ -49,6 +49,12 @@ The project is maintained in a community pharmacy support style and is connected
 - [Owner question checklist data](data/owner_questions.yml)
 - [Glossary data](data/glossary.yml)
 
+## Project notes
+
+- [Authors and pharmacy team notes](AUTHORS)
+- [Sources and source context](SOURCES)
+- [License](LICENSE)
+
 ## Boundary note
 
 Medication decisions for a pet should be made by the veterinarian who knows the animal’s species, weight, age, diagnosis, medical history, current medications, and monitoring needs. This project helps owners organize questions; it does not provide diagnosis or dosing guidance.

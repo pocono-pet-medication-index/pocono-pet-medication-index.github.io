@@ -69,6 +69,6 @@ This page does not give dosing tables, substitute choices, diagnosis, treatment 
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Metronidazole notes](metronidazole.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Metronidazole notes](metronidazole)
 - [Medication index data file](../data/medications.yml)

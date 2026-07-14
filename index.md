@@ -11,36 +11,36 @@ The project is maintained in a community pharmacy support style and is connected
 
 ## Core orientation pages
 
-- [Getting Started](docs/getting-started.md)
-- [How to Use This Pet Medication Index](docs/how-to-use-this-index.md)
-- [What Belongs With the Veterinarian and What Belongs With the Pharmacy](docs/pharmacy-vs-veterinarian.md)
-- [Pet Prescription Refills, Labels, and Availability Questions](docs/refill-and-label-questions.md)
-- [Species, Weight, Age, and Medical History Notes](docs/species-and-weight-notes.md)
-- [Side Effect Watch Notes for Pet Owners](docs/side-effect-watch-notes.md)
+- [Getting Started](docs/getting-started)
+- [How to Use This Pet Medication Index](docs/how-to-use-this-index)
+- [What Belongs With the Veterinarian and What Belongs With the Pharmacy](docs/pharmacy-vs-veterinarian)
+- [Pet Prescription Refills, Labels, and Availability Questions](docs/refill-and-label-questions)
+- [Species, Weight, Age, and Medical History Notes](docs/species-and-weight-notes)
+- [Side Effect Watch Notes for Pet Owners](docs/side-effect-watch-notes)
 
 ## Medication notes
 
-- [Carprofen / Rimadyl Notes for Dog Owners](docs/carprofen-rimadyl.md)
-- [Meloxicam Notes for Pet Owners](docs/meloxicam.md)
-- [Fenbendazole / Panacur Notes for Pets](docs/fenbendazole-panacur.md)
-- [Gabapentin Notes for Dogs and Cats](docs/gabapentin.md)
-- [Trazodone Notes for Dogs](docs/trazodone.md)
-- [Metronidazole Notes for Pets](docs/metronidazole.md)
-- [Amoxicillin-Clavulanate Notes for Pets](docs/amoxicillin-clavulanate.md)
-- [Cephalexin Notes for Dogs and Cats](docs/cephalexin.md)
-- [Prednisone / Prednisolone Notes for Pets](docs/prednisone-prednisolone.md)
-- [Apoquel / Oclacitinib Notes for Dog Owners](docs/apoquel-oclacitinib.md)
-- [Fluconazole Notes for Pets](docs/fluconazole.md)
-- [Ivermectin Notes for Pets](docs/ivermectin.md)
-- [Selamectin Notes for Cats and Dogs](docs/selamectin.md)
-- [Insulin Notes for Diabetic Pets](docs/insulin-for-pets.md)
-- [Thyroid Medication Notes for Pets](docs/thyroid-medication-pets.md)
-- [Flea, Tick, and Heartworm Prescription Questions](docs/flea-tick-heartworm-prescriptions.md)
+- [Carprofen / Rimadyl Notes for Dog Owners](docs/carprofen-rimadyl)
+- [Meloxicam Notes for Pet Owners](docs/meloxicam)
+- [Fenbendazole / Panacur Notes for Pets](docs/fenbendazole-panacur)
+- [Gabapentin Notes for Dogs and Cats](docs/gabapentin)
+- [Trazodone Notes for Dogs](docs/trazodone)
+- [Metronidazole Notes for Pets](docs/metronidazole)
+- [Amoxicillin-Clavulanate Notes for Pets](docs/amoxicillin-clavulanate)
+- [Cephalexin Notes for Dogs and Cats](docs/cephalexin)
+- [Prednisone / Prednisolone Notes for Pets](docs/prednisone-prednisolone)
+- [Apoquel / Oclacitinib Notes for Dog Owners](docs/apoquel-oclacitinib)
+- [Fluconazole Notes for Pets](docs/fluconazole)
+- [Ivermectin Notes for Pets](docs/ivermectin)
+- [Selamectin Notes for Cats and Dogs](docs/selamectin)
+- [Insulin Notes for Diabetic Pets](docs/insulin-for-pets)
+- [Thyroid Medication Notes for Pets](docs/thyroid-medication-pets)
+- [Flea, Tick, and Heartworm Prescription Questions](docs/flea-tick-heartworm-prescriptions)
 
 ## Practical owner support
 
-- [Compounded Pet Medication Questions](docs/compounded-pet-medications.md)
-- [Travel and Refill Checklist for Pet Medications](docs/travel-refill-checklist.md)
+- [Compounded Pet Medication Questions](docs/compounded-pet-medications)
+- [Travel and Refill Checklist for Pet Medications](docs/travel-refill-checklist)
 
 ## Data files
 

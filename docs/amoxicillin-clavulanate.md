@@ -67,6 +67,6 @@ This page does not give dosing tables, substitute choices, diagnosis, treatment 
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Cephalexin notes](cephalexin.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Cephalexin notes](cephalexin)
 - [Medication index data file](../data/medications.yml)

@@ -76,6 +76,6 @@ For longer trips, keep one written note with the veterinary office phone number,
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Compounded medication questions](compounded-pet-medications.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Compounded medication questions](compounded-pet-medications)
 - [Owner questions data file](../data/owner_questions.yml)

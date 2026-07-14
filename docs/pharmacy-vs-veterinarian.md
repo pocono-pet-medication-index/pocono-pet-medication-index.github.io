@@ -48,6 +48,6 @@ A useful handoff is short and factual: the pet name, medication name, current la
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Side-effect watch notes](side-effect-watch-notes.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Side-effect watch notes](side-effect-watch-notes)
 - [Glossary data file](../data/glossary.yml)

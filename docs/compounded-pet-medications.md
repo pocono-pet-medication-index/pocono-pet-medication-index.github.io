@@ -79,6 +79,6 @@ For a compounded liquid, capsule, or flavored preparation, the owner should also
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Travel refill checklist](travel-refill-checklist.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Travel refill checklist](travel-refill-checklist)
 - [Medication index data file](../data/medications.yml)

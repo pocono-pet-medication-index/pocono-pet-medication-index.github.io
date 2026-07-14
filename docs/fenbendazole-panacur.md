@@ -65,6 +65,6 @@ This page does not give dosing tables, substitute choices, diagnosis, treatment 
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Flea, tick, and heartworm questions](flea-tick-heartworm-prescriptions.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Flea, tick, and heartworm questions](flea-tick-heartworm-prescriptions)
 - [Medication index data file](../data/medications.yml)

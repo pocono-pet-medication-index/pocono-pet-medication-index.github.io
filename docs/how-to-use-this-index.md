@@ -46,6 +46,6 @@ Do not use the data files as shortcuts around the veterinary office. They are a 
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Refill and label questions](refill-and-label-questions.md)
-- [Species and weight notes](species-and-weight-notes.md)
+- [Refill and label questions](refill-and-label-questions)
+- [Species and weight notes](species-and-weight-notes)
 - [Owner questions data file](../data/owner_questions.yml)

@@ -67,9 +67,9 @@ A good call often starts with: pet name, species, current weight, medication nam
 
 ## Start here
 
-- [Getting Started](docs/getting-started.md)
-- [How to Use This Pet Medication Index](docs/how-to-use-this-index.md)
-- [Pet Prescription Refills, Labels, and Availability Questions](docs/refill-and-label-questions.md)
+- [Getting Started](docs/getting-started)
+- [How to Use This Pet Medication Index](docs/how-to-use-this-index)
+- [Pet Prescription Refills, Labels, and Availability Questions](docs/refill-and-label-questions)
 - [Medication index data](data/medications.yml)
 
 ## Related Pocono resources

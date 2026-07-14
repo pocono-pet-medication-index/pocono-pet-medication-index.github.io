@@ -73,6 +73,6 @@ The owner’s notes do not need to be medical language. Plain observations are e
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Species and weight notes](species-and-weight-notes.md)
-- [Refill and label questions](refill-and-label-questions.md)
+- [Species and weight notes](species-and-weight-notes)
+- [Refill and label questions](refill-and-label-questions)
 - [Owner questions data file](../data/owner_questions.yml)

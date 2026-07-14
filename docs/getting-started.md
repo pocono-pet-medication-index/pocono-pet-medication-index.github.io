@@ -34,9 +34,9 @@ This project does not diagnose pets, approve medications, provide numeric amount
 
 ## Useful next pages
 
-- [How to Use This Pet Medication Index](how-to-use-this-index.md)
-- [What Belongs With the Veterinarian and What Belongs With the Pharmacy](pharmacy-vs-veterinarian.md)
-- [Pet Prescription Refills, Labels, and Availability Questions](refill-and-label-questions.md)
+- [How to Use This Pet Medication Index](how-to-use-this-index)
+- [What Belongs With the Veterinarian and What Belongs With the Pharmacy](pharmacy-vs-veterinarian)
+- [Pet Prescription Refills, Labels, and Availability Questions](refill-and-label-questions)
 - [Medication index data](../data/medications.yml)
 
 ## A practical pharmacy note
@@ -47,6 +47,6 @@ That small preparation often makes the conversation calmer and more accurate.
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [How to use this index](how-to-use-this-index.md)
-- [Pharmacy vs veterinarian roles](pharmacy-vs-veterinarian.md)
+- [How to use this index](how-to-use-this-index)
+- [Pharmacy vs veterinarian roles](pharmacy-vs-veterinarian)
 - [Medication index data file](../data/medications.yml)

@@ -77,6 +77,6 @@ Refill timing is especially important before weekends, holidays, travel, or a sc
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Travel refill checklist](travel-refill-checklist.md)
-- [Compounded medication questions](compounded-pet-medications.md)
+- [Travel refill checklist](travel-refill-checklist)
+- [Compounded medication questions](compounded-pet-medications)
 - [Owner questions data file](../data/owner_questions.yml)

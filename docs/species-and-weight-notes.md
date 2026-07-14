@@ -72,6 +72,6 @@ Current weight is not a courtesy detail. It may affect how the veterinary office
 ## Related links
 
 - [Pocono pet medication support](https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support)
-- [Pharmacy vs veterinarian roles](pharmacy-vs-veterinarian.md)
-- [Side-effect watch notes](side-effect-watch-notes.md)
+- [Pharmacy vs veterinarian roles](pharmacy-vs-veterinarian)
+- [Side-effect watch notes](side-effect-watch-notes)
 - [Glossary data file](../data/glossary.yml)

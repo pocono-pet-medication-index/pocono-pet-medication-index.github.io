@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pocono-pet-medication-index.github.io/sitemap.xml

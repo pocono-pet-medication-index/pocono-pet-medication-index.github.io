@@ -1,0 +1,118 @@
+{
+  "project": "Pocono Pet Medication Index",
+  "generated_at": "2026-07-07",
+  "revision": "fixed-qa-2-2026-07-07",
+  "files": [
+    "AUTHORS.md",
+    "CHANGELOG.md",
+    "LICENSE.md",
+    "MANIFEST.json",
+    "README.md",
+    "SOURCES.md",
+    "data/categories.yml",
+    "data/glossary.yml",
+    "data/medications.yml",
+    "data/owner_questions.yml",
+    "docs/amoxicillin-clavulanate.md",
+    "docs/apoquel-oclacitinib.md",
+    "docs/carprofen-rimadyl.md",
+    "docs/cephalexin.md",
+    "docs/compounded-pet-medications.md",
+    "docs/fenbendazole-panacur.md",
+    "docs/flea-tick-heartworm-prescriptions.md",
+    "docs/fluconazole.md",
+    "docs/gabapentin.md",
+    "docs/getting-started.md",
+    "docs/how-to-use-this-index.md",
+    "docs/insulin-for-pets.md",
+    "docs/ivermectin.md",
+    "docs/meloxicam.md",
+    "docs/metronidazole.md",
+    "docs/pharmacy-vs-veterinarian.md",
+    "docs/prednisone-prednisolone.md",
+    "docs/refill-and-label-questions.md",
+    "docs/selamectin.md",
+    "docs/side-effect-watch-notes.md",
+    "docs/species-and-weight-notes.md",
+    "docs/thyroid-medication-pets.md",
+    "docs/travel-refill-checklist.md",
+    "docs/trazodone.md",
+    "index.md"
+  ],
+  "doc_count": 24,
+  "data_count": 4,
+  "primary_pocono_source": "https://www.poconocommunitypharmacy.com/medication-information/pet-medication-support",
+  "pocono_service_support_page": "https://www.poconocommunitypharmacy.com/pet-care",
+  "word_counts": {
+    "docs/amoxicillin-clavulanate.md": 750,
+    "docs/apoquel-oclacitinib.md": 746,
+    "docs/carprofen-rimadyl.md": 778,
+    "docs/cephalexin.md": 730,
+    "docs/compounded-pet-medications.md": 529,
+    "docs/fenbendazole-panacur.md": 730,
+    "docs/flea-tick-heartworm-prescriptions.md": 705,
+    "docs/fluconazole.md": 713,
+    "docs/gabapentin.md": 703,
+    "docs/getting-started.md": 532,
+    "docs/how-to-use-this-index.md": 512,
+    "docs/insulin-for-pets.md": 712,
+    "docs/ivermectin.md": 726,
+    "docs/meloxicam.md": 705,
+    "docs/metronidazole.md": 748,
+    "docs/pharmacy-vs-veterinarian.md": 537,
+    "docs/prednisone-prednisolone.md": 717,
+    "docs/refill-and-label-questions.md": 530,
+    "docs/selamectin.md": 707,
+    "docs/side-effect-watch-notes.md": 513,
+    "docs/species-and-weight-notes.md": 528,
+    "docs/thyroid-medication-pets.md": 712,
+    "docs/travel-refill-checklist.md": 532,
+    "docs/trazodone.md": 705
+  },
+  "qa": {
+    "markdown_4_space_indent_before_headings_paragraphs_bullets": {
+      "status": "passed",
+      "issue_count": 0,
+      "issues": []
+    },
+    "anti_template_repeated_paragraph_more_than_2_docs": {
+      "status": "passed",
+      "issue_count": 0,
+      "issues": []
+    },
+    "visible_template_artifact_scan": {
+      "status": "passed",
+      "issue_count": 0,
+      "hits": []
+    },
+    "related_links_3_to_4_no_duplicate_urls_or_anchors": {
+      "status": "passed",
+      "issue_count": 0,
+      "issues": []
+    },
+    "primary_pocono_source_is_pet_medication_support": {
+      "status": "passed"
+    },
+    "banned_phrase_scan": {
+      "status": "passed",
+      "issue_count": 0,
+      "hits": []
+    },
+    "front_matter_description_length_130_160_for_docs_and_index": {
+      "status": "passed",
+      "issue_count": 0,
+      "issues": []
+    },
+    "medication_page_word_counts_700_1000": {
+      "status": "passed",
+      "failed": []
+    },
+    "support_page_word_counts_500_800": {
+      "status": "passed",
+      "failed": []
+    },
+    "markdown_file_markers_in_combined_file": {
+      "status": "included"
+    }
+  }
+}

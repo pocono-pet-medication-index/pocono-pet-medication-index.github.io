@@ -1,0 +1,24 @@
+- slug: pain-and-inflammation
+  name: Pain and inflammation
+  description: Veterinary anti-inflammatory, pain-related, and steroid-context questions that require veterinarian direction.
+- slug: parasite-medications
+  name: Parasite medications
+  description: Parasite prevention and parasite-related prescription questions where species, weight, testing, and household exposure matter.
+- slug: antibiotics-and-anti-infectives
+  name: Antibiotics and anti-infectives
+  description: Antibiotic and antifungal prescription questions involving completion, monitoring, refills, and veterinary follow-up.
+- slug: allergy-and-dermatology
+  name: Allergy and dermatology
+  description: Skin, itch, allergy, and dermatology medication notes for owner questions and pharmacy label support.
+- slug: anxiety-and-behavior-related-prescriptions
+  name: Anxiety and behavior-related prescriptions
+  description: Event-related and behavior-related prescription questions where timing and monitoring must stay veterinarian-directed.
+- slug: chronic-condition-support
+  name: Chronic condition support
+  description: Ongoing medication support for conditions such as diabetes and thyroid disease, with refill continuity and monitoring questions.
+- slug: compounding-and-administration
+  name: Compounding and administration
+  description: Questions about liquid forms, flavors, capsules, storage, beyond-use dates, and pet acceptance.
+- slug: refill-and-pharmacy-support
+  name: Refill and pharmacy support
+  description: Prescription status, refill number, label clarification, availability, storage, and veterinary authorization questions.

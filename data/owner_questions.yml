@@ -1,0 +1,20 @@
+- question: What species is this prescription for?
+  why_it_matters: Species changes how a veterinary medication question should be handled.
+- question: What is the pet’s current weight?
+  why_it_matters: The veterinarian may need current weight before reviewing medication questions.
+- question: Has the pet taken this medication before?
+  why_it_matters: Prior use, reactions, and changes should be shared with the veterinary office.
+- question: Are there other pets in the household?
+  why_it_matters: Medication should not be shared between pets, and other pets may need separate evaluation.
+- question: Is this a refill or a new prescription?
+  why_it_matters: Refill status and veterinary authorization needs may differ.
+- question: Does the label match the veterinarian’s instruction?
+  why_it_matters: A mismatch should be clarified before the owner guesses.
+- question: Are there missed dose instructions from the veterinarian?
+  why_it_matters: Missed dose questions belong with the veterinarian if not already written.
+- question: Does the medication require refrigeration?
+  why_it_matters: Storage can affect handling, travel, and refill planning.
+- question: Is the medication compounded?
+  why_it_matters: Compounded forms may have flavor, storage, and beyond-use date details.
+- question: When should the veterinarian be contacted?
+  why_it_matters: Owners should know which signs require veterinary follow-up or emergency care.

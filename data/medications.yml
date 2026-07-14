@@ -1,0 +1,256 @@
+- slug: carprofen-rimadyl
+  display_name: Carprofen / Rimadyl
+  category: Pain and inflammation
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the prescription still refillable, or does the veterinary office need to authorize more?
+  - Does the bottle label match the written instruction from the veterinary office?
+  - Is the prescribed tablet, caplet, chewable tablet, or liquid form available?
+  veterinarian_questions:
+  - What signs would make you want to recheck the dog before the next refill?
+  - Should any current medicines, supplements, or injections be avoided while this is being used?
+  - What should I do if the dog vomits, refuses food, or receives a missed dose instruction that I do not understand?
+  page: docs/carprofen-rimadyl.md
+- slug: meloxicam
+  display_name: Meloxicam
+  category: Pain and inflammation
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the label written clearly enough for the exact pet and form?
+  - Is a measuring device needed for a prescribed liquid form?
+  - Is the refill number active, or is veterinary authorization needed?
+  veterinarian_questions:
+  - Is this intended for this pet only, and are there species-specific cautions I should understand?
+  - Should any other pain or inflammation medicine be stopped, avoided, or discussed before use?
+  - What stomach, kidney, liver, appetite, or behavior changes should lead me to call you?
+  page: docs/meloxicam.md
+- slug: fenbendazole-panacur
+  display_name: Fenbendazole / Panacur
+  category: Parasite medications
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the prescription written for a packet, paste, liquid form, or compounded preparation?
+  - Does the label name the correct pet and match the veterinary office instruction?
+  - Is there a refill number, or does the veterinary office need to authorize any repeat supply?
+  veterinarian_questions:
+  - What parasite or exposure concern are we addressing for this specific pet?
+  - Do other pets in the house need testing, separation, or their own chart review?
+  - What should I do if vomiting, diarrhea, poor appetite, or worsening signs appear?
+  page: docs/fenbendazole-panacur.md
+- slug: gabapentin
+  display_name: Gabapentin
+  category: Anxiety and behavior-related prescriptions
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the prescribed form available, or does compounding need to be discussed?
+  - Does the bottle label clearly state when the veterinarian wants it used?
+  - Is the refill number active, or should the veterinary office be contacted?
+  veterinarian_questions:
+  - What is the reason this was placed in my pet’s chart?
+  - What level of sleepiness, wobbliness, or behavior change should be expected versus reported?
+  - Should this be given around a visit, travel event, daily routine, or another specific situation?
+  page: docs/gabapentin.md
+- slug: trazodone
+  display_name: Trazodone
+  category: Anxiety and behavior-related prescriptions
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the label clear about event-related timing versus routine use?
+  - Is the prescription refillable before the next procedure, trip, or visit?
+  - Is the tablet strength and quantity consistent with the veterinary instruction?
+  veterinarian_questions:
+  - When exactly do you want this used for this dog’s situation?
+  - What behavior, sleepiness, agitation, or coordination changes should lead me to call?
+  - Are there medicines, supplements, or health conditions that change the plan?
+  page: docs/trazodone.md
+- slug: metronidazole
+  display_name: Metronidazole
+  category: Antibiotics and anti-infectives
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the label clear on timing and duration as written by the veterinary office?
+  - Is a compounded liquid form being used, and what is the beyond-use date?
+  - Does the medication need any special storage?
+  veterinarian_questions:
+  - What signs should improve, and what signs mean I should call back?
+  - What should I do if vomiting, diarrhea, appetite loss, or neurologic signs appear?
+  - Is there a specific missed dose instruction for this pet?
+  page: docs/metronidazole.md
+- slug: amoxicillin-clavulanate
+  display_name: Amoxicillin-Clavulanate
+  category: Antibiotics and anti-infectives
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Does this form require refrigeration or special handling?
+  - Is the label clear about the full course written by the veterinary office?
+  - Is a refill number present, or does the veterinarian need to authorize more?
+  veterinarian_questions:
+  - What signs should improve, and when should I call if they do not?
+  - What should I do if my pet vomits, has diarrhea, or refuses the medication?
+  - Is there a missed dose instruction written for this pet?
+  page: docs/amoxicillin-clavulanate.md
+- slug: cephalexin
+  display_name: Cephalexin
+  category: Antibiotics and anti-infectives
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the capsule, tablet, or liquid form available as prescribed?
+  - Does the label match the veterinary office direction?
+  - Does the bottle show refills, or does more medication require authorization?
+  veterinarian_questions:
+  - What change should I expect to see, and when should I contact you if it is not happening?
+  - What should I do if the pet has vomiting, diarrhea, itching, swelling, or appetite change?
+  - Is a culture, recheck, or skin evaluation needed before more medication?
+  page: docs/cephalexin.md
+- slug: prednisone-prednisolone
+  display_name: Prednisone / Prednisolone
+  category: Pain and inflammation
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Does the label clearly show any changing instructions written by the veterinarian?
+  - Is the prescription refillable, or does the veterinary office need to review before continuing?
+  - Is the tablet, liquid, or compounded form available as written?
+  veterinarian_questions:
+  - What signs should improve, and what signs should be reported quickly?
+  - Does this medication need a planned step-down or recheck before stopping?
+  - How does diabetes, infection concern, stomach history, or other medication change the plan?
+  page: docs/prednisone-prednisolone.md
+- slug: apoquel-oclacitinib
+  display_name: Apoquel / Oclacitinib
+  category: Allergy and dermatology
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the prescription refillable, or does the veterinary office need to authorize it?
+  - Does the label match the current veterinary instruction?
+  - Is the tablet strength available as written?
+  veterinarian_questions:
+  - What skin changes should improve, and what should make me call back?
+  - Are infections, ear problems, or other skin conditions being monitored while this is used?
+  - Do you want lab work, a recheck, or chart review before long-term refills?
+  page: docs/apoquel-oclacitinib.md
+- slug: fluconazole
+  display_name: Fluconazole
+  category: Antibiotics and anti-infectives
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the capsule, tablet, or liquid form available as prescribed?
+  - Does the label match the most recent veterinary instruction?
+  - Is the refill number active, or is authorization needed?
+  veterinarian_questions:
+  - What monitoring or recheck schedule is connected to this prescription?
+  - What side effects or behavior changes should lead me to call?
+  - Are there interactions with other medicines or supplements my pet receives?
+  page: docs/fluconazole.md
+- slug: ivermectin
+  display_name: Ivermectin
+  category: Parasite medications
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Does the label name the correct pet and product form?
+  - Is the prescription active, or does the veterinary office need to authorize it?
+  - Are there storage or handling notes on the package or bottle label?
+  veterinarian_questions:
+  - Is this product or prescription appropriate for my pet’s species, breed, weight, and test history?
+  - What signs of sensitivity or toxicity should I watch for?
+  - Is heartworm testing, parasite testing, or follow-up needed before or during use?
+  page: docs/ivermectin.md
+- slug: selamectin
+  display_name: Selamectin
+  category: Parasite medications
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Does the package match the prescription and pet named by the veterinary office?
+  - Is the refill number active?
+  - Is the weight range on the label consistent with the pet’s current chart weight?
+  veterinarian_questions:
+  - Is this the right product for this pet’s species, weight, and parasite risk?
+  - What should I do if a dose is missed or applied incorrectly?
+  - Are other pets in the house part of the same prevention plan?
+  page: docs/selamectin.md
+- slug: insulin-for-pets
+  display_name: Insulin for pets
+  category: Chronic condition support
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the exact insulin and syringe type available as prescribed?
+  - Does the label match the veterinary office instruction?
+  - Does it require refrigeration, and how should it be transported?
+  veterinarian_questions:
+  - What signs of low blood sugar should I watch for, and what is your emergency instruction?
+  - What should I do if my pet does not eat, vomits, or receives a missed dose instruction I do not understand?
+  - How should home monitoring, lab checks, or glucose curves be handled?
+  page: docs/insulin-for-pets.md
+- slug: thyroid-medication-pets
+  display_name: Thyroid medication for pets
+  category: Chronic condition support
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the prescription refillable before the next lab or visit?
+  - Is the tablet, transdermal, or liquid form available as written?
+  - Does the label match the most recent veterinary instruction?
+  veterinarian_questions:
+  - When should labs or rechecks happen before future refills?
+  - What appetite, weight, thirst, vomiting, behavior, or energy changes should be reported?
+  - Are there handling precautions for the owner or household?
+  page: docs/thyroid-medication-pets.md
+- slug: flea-tick-heartworm-prescriptions
+  display_name: Flea, Tick, and Heartworm Prescription Questions
+  category: Parasite medications
+  species_notes:
+  - Veterinary review required
+  - Use only for the pet named by the veterinarian
+  - Species, current weight, age, medical history, and current medications matter
+  pharmacy_questions:
+  - Is the prescription active and refillable?
+  - Does the product match the pet’s species and weight range?
+  - Is the package or label clear for this pet?
+  veterinarian_questions:
+  - Is testing needed before starting or continuing this product?
+  - What should I do if I missed a month or applied the product late?
+  - Are all pets in the house on the same prevention schedule?
+  page: docs/flea-tick-heartworm-prescriptions.md

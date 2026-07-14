@@ -53,7 +53,7 @@ The project is maintained in a community pharmacy support style and is connected
 
 - [Authors and pharmacy team notes](AUTHORS)
 - [Sources and source context](SOURCES)
-- [License](LICENSE)
+- [License](project-license)
 
 ## Boundary note
 

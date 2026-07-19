@@ -65,3 +65,8 @@ Medication decisions for a pet should be made by the veterinarian who knows the 
 - [Pet Care service page](https://www.poconocommunitypharmacy.com/pet-care)
 - [Pharmacy Services](https://www.poconocommunitypharmacy.com/pharmacy)
 - [Pharmacy Team](https://www.poconocommunitypharmacy.com/staff)
+
+## Related Pocono pet support pages
+
+For pet owners who prefer a short support-site format, see:
+[Pocono Pet Medication Support](https://pocono-pet-medication-support-3.jimdosite.com/)
